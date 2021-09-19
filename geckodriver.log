@@ -1,0 +1,20 @@
+1632044298212	geckodriver	INFO	Listening on 127.0.0.1:62111
+1632044301325	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\tee_f\\AppData\\Local\\Temp\\rust_mozprofile32KcHh"
+1632044302720	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\tee_f\\AppData\\Local\\Temp\\rust_mozprofile32KcHh\\search.json.mozlz4", (void 0)))
+1632044309331	Marionette	INFO	Listening on port 58229
+1632044309421	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1632044375476	Marionette	INFO	Stopped listening on port 58229
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1632044389267	geckodriver	INFO	Listening on 127.0.0.1:54974
+1632044392312	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\tee_f\\AppData\\Local\\Temp\\rust_mozprofilearop7l"
+1632044393384	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\tee_f\\AppData\\Local\\Temp\\rust_mozprofilearop7l\\search.json.mozlz4", (void 0)))
+1632044398274	Marionette	INFO	Listening on port 60243
+1632044398665	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
